@@ -3,4 +3,4 @@ print("The list is: ", color)
   
   
 color.remove('Black')  
-print("After removing element: ",color)  
+print("After removing element: ", color)  
